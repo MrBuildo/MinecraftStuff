@@ -2046,7 +2046,7 @@
     "float|-0.114,true"
   ],
   "net.minecraft.entity.monster.EntityBlaze": [
-    "fly|false",
+    "fly|true",
     "fireImmunity",
     "waterAllergy",
     "hostile"
